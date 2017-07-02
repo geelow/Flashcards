@@ -1,0 +1,19 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "node app for answering trivia or creating trivia cards. ",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geelow/Flashcards.git"
+  },
+  "author": "jamie",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/geelow/Flashcards/issues"
+  },
+  "homepage": "https://github.com/geelow/Flashcards#readme"
+}
